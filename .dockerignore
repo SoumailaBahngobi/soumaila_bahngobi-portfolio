@@ -1,0 +1,66 @@
+# Dépendances
+node_modules
+npm-debug.log
+package-lock.json
+yarn.lock
+yarn-error.log
+.pnpm-store
+
+# Build
+dist
+dist-ssr
+build
+*.local
+
+# Editor
+.vscode
+.idea
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Git
+.git
+.gitignore
+.gitattributes
+.github
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.env.*.local
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Tests
+coverage
+.nyc_output
+*.test.js
+*.spec.js
+
+# Docker
+Dockerfile
+.dockerignore
+docker-compose*.yml
+
+# Documentation
+README.md
+CHANGELOG.md
+LICENSE
+*.md
+
+# Cache
+.eslintcache
+.prettiercache
+.cache
+.temp
