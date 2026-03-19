@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container-padding mx-auto">
         <div className="flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-400 mb-4 md:mb-0">
-            © 2024 John Doe. Tous droits réservés.
+            © 2026 Soumaïla BAHN'GOBI. Tous droits réservés.
           </p>
           
           <div className="flex space-x-6">
