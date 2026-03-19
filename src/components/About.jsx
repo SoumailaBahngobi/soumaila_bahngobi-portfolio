@@ -138,46 +138,48 @@ const About = () => {
     {
       name: "Implémentez vos bases de données relationnelles avec SQL",
       issuer: "OpenClassrooms",
-      date: "15 Mars 2026",
-      code: "",
+      date: "29 septembre 2024",
+      code: "Certificate # 8090387447",
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // OpenClassrooms - Apprenez à programmer en C
     {
       name: "Apprenez à programmer en C",
       issuer: "OpenClassrooms",
-      date: "15 Mars 2026",
-      code: "",
+      date: "26 Mars 2023",
+      code: "Certificate # 1532287813",
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // OpenClassrooms - Programmez en orienté objet en PHP
     {
       name: "Programmez en orienté objet en PHP",
       issuer: "OpenClassrooms",
-      date: "15 Mars 2026",
-      code: "",
+      date: "03 Mai 2026",
+      code: "Certificate # 3218265579",
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // OpenClassrooms - Apprenez les bases du langage Python
     {
       name: "Apprenez les bases du langage Python",
       issuer: "OpenClassrooms",
+      date:"30 septembre 2024",
+       code:"Certificate # 8247042059 ", 
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // OpenClassrooms - Apprenez à programmer en Java
     {
       name: "Apprenez à programmer en Java",
       issuer: "OpenClassrooms",
-      date: "15 Mars 2026",
-      code: "",
+      date: "20 juillet 2025",
+      code: "Certificate # 6835532540",
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // OpenClassrooms - Apprenez à programmer avec JavaScript
     {
       name: "Apprenez à programmer avec JavaScript",
       issuer: "OpenClassrooms",
-      date: "15 Mars 2026",
-      code: "",
+      date: "08 octobre 2024",
+      code: "Certificate # 6248044663",
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // OpenClassrooms - Learn Programming With JavaScript
@@ -185,31 +187,32 @@ const About = () => {
       name: "Learn Programming With JavaScript",
       issuer: "OpenClassrooms",
       date: "15 Mars 2026",
-      code: "",
+      code: "Certificate # 8026292346",
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // OpenClassrooms - Create a Web Application With React.js
     {
       name: "Create a Web Application With React.js",
       issuer: "OpenClassrooms",
-      date: "15 Mars 2026",
-      code: "",
+      date: "06 octobre 2024",
+      code: "Certificate # 7957490233",
       instructor: "Mathieu Nebra, Co-fondateur d'OpenClassrooms"
     },
     // Codecademy - Learn the Command Line in Terminal
     {
       name: "Learn the Command Line in Terminal",
       issuer: "Codecademy",
-      date: "15 Mars 2026",
-      code: "",
+      date: "17 Octobre 2024",
+      code: "Certificate # 9987315878",
       instructor: "Emily Reese, Course author"
     },
     // Codecademy - Build Your First Web Pages With HTML and CSS
     {
       name: "Build Your First Web Pages With HTML and CSS",
       issuer: "Codecademy",
-      date: "15 Mars 2026",
-      code: "",      instructor: "Emily Reese, Course author"
+      date: "6 octobre 2024",
+      code: "Certificate # 4950646481",  
+      instructor: "Emily Reese, Course author"
     }
   ];
 
