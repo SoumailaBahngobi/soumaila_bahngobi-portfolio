@@ -216,7 +216,8 @@ const About = () => {
   // Centres d'intérêt
   const interests = [
     "MMA", "Athlétisme", "Méditation", 
-    "Voyage", "Lecture", "Radio"
+    "Voyage", "Lecture", "Développement personnel", "Radio",
+     "Technologie", "Informatique", "Débats","Biker", "religions", "philosophie"
   ];
 
   return (
@@ -417,13 +418,13 @@ const About = () => {
           <div className="flex items-start">
             <FileText className="text-blue-600 mr-4 flex-shrink-0" size={24} />
             <div>
-              <h4 className="font-semibold text-gray-800 mb-2">Attestation de Réussite de Licence</h4>
-              <p className="text-gray-700">Licence Professionnelle Informatique, Réseaux et Télécommunication - Option Architecture Logicielle (BAC+3)</p>
+              <h4 className="font-semibold text-gray-800 mb-2"> Licence (Bac+3) </h4>
+              <p className="text-gray-700">Licence Professionnelle Informatique, Réseaux et Télécommunication </p>
               <div className="flex flex-wrap items-center gap-4 mt-3">
-                <span className="text-sm text-gray-600">Validée le 27/06/2025</span>
-                <span className="text-sm text-gray-600">Directeur: Dr. ATOHOUN Béthel</span>
+                 <h1>Spécialité: <span className="text-sm text-gray-600">Système Informatique et Logicielle</span></h1>
+                
                 <span className="text-sm bg-green-100 text-green-700 px-3 py-1 rounded-full">
-                  Diplômé 2024-2025
+                  Année 2024-2025
                 </span>
               </div>
             </div>
