@@ -27,7 +27,7 @@ const About = () => {
     {
       icon: <Database className="text-blue-600" size={20} />,
       title: "Bases de données",
-      skills: ["SQL", "MongoDB", "MySQL"]
+      skills: ["SQL", "MongoDB", "MySQL, PostgreSql"]
     },
     {
       icon: <Terminal className="text-blue-600" size={20} />,
