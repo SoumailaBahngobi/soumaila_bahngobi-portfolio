@@ -7,7 +7,7 @@ const Hero = () => {
       <div className="container-padding mx-auto text-center">
         <div className="animate-slide-up">
           <h1 className="text-5xl md:text-7xl font-bold mb-4">
-            Soumaila Bahngobi Idrissou
+            Soumaila BAHN'GOBI IDRISSOU
           </h1>
           <p className="text-xl md:text-2xl text-gray-600 mb-8">
             Développeur Full Stack | software engineer | passionné par la création de solutions innovantes
