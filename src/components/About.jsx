@@ -53,37 +53,37 @@ const About = () => {
     {
       title: "Développeur Full Stack",
       company: "Webb Fontaine Bénin",
-      period: "3 mois",
+      period: "18 Août 2025 - 17 Novembre 2025",
       type: "Stage",
-      description: "Intégration et développement de fonctionnalités"
+      description: "Intégration et développement de fonctionnalités avec springboot, reactjs, keycloak, postgresql, docker"
     },
     {
       title: "Développeur",
       company: "Twoftech",
-      period: "1 mois",
+      period: "02 janvier 2026 - 01 Février 2026",
       type: "Stage",
-      description: "Développement et maintenance d'applications"
+      description: "Contribuer au développement et maintenance d'application <codefacile> avec l'équipe technique"
     },
     {
       title: "Développeur",
       company: "Direction Informatique de la DGB",
-      period: "3 mois",
+      period: "03 Mars 2025 - 23 Mai 2025",
       type: "Stage",
-      description: "Contribution aux projets informatiques de la direction"
+      description: "Contribution aux projets informatiques de la direction; Participation a l'analyse du projet SIGRHP"
     },
     {
       title: "Développeur",
       company: "Cour Constitutionnelle du Bénin",
-      period: "2 mois",
+      period: "12 Août 2024 - 11 Octobre 2024",
       type: "Stage",
-      description: "Support et développement d'outils internes"
+      description: "Support et développement web avec reactjs postgresql , nodejs"
     },
     {
       title: "Développeur",
       company: "Société des Aéroports du Bénin (SAB)",
-      period: "1 mois",
+      period: "28 Août 2023 - 27 Septembre 2023",
       type: "Stage",
-      description: "Initiation aux environnements professionnels"
+      description: " Découverte de l'entreprise; Initiation aux environnements professionnels; Visite quotient des salle serveur avec les techniciens"
     }
   ];
 
