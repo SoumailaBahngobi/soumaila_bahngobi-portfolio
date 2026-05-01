@@ -46,7 +46,7 @@ const About = () => {
     {
       title: "Développeur Full Stack",
       company: "Webb Fontaine Bénin",
-      period: "2026 (en cours)",
+      period: "02 Février 2026 - 30 Avril 2026",
       type: "Stage",
       description: "Développement d'applications web avec les technologies modernes"
     },
